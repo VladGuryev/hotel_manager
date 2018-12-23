@@ -1,4 +1,4 @@
-# hotel_manager
+# Hotel_manager
 This repo contains the code for the programming issue of Yandex online course on the Coursera: https://www.coursera.org/learn/c-plus-plus-red/programming/8O9dd/sistiema-bronirovaniia-otieliei
 
 The program handles the following events:
